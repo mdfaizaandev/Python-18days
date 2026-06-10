@@ -1,4 +1,4 @@
-# Python 18-Day Foundation
+# Python 8-Day Foundation
 
 A structured, disciplined repository dedicated to mastering Python core programming, Data Structures & Algorithms (DSA), and Cloud Infrastructure.
 
